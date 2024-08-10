@@ -1,4 +1,4 @@
-# Tarea: Shared-Object-con-Linux
+# Tarea: Shared Object con Linux
 
 Se pueden ver los archivos en estos enlaces: 
 - [hola_main_library.c](https://github.com/IanMitchellOR-UAM/Shared-Object-con-Linux/blob/main/hola_main_library.c)
