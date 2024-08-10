@@ -1,9 +1,9 @@
 # Tarea: Shared-Object-con-Linux
 
 Se pueden ver los archivos en estos enlaces: 
-- [hola_main_library](https://github.com/IanMitchellOR-UAM/Shared-Object-con-Linux/blob/main/hola_main_library.c).
-- [hola_print_library](https://github.com/IanMitchellOR-UAM/Shared-Object-con-Linux/blob/main/hola_print_library.c).
-- [hola_print_library](https://github.com/IanMitchellOR-UAM/Shared-Object-con-Linux/blob/main/hola_print_library.h).
+- [hola_main_library.c](https://github.com/IanMitchellOR-UAM/Shared-Object-con-Linux/blob/main/hola_main_library.c).
+- [hola_print_library.c](https://github.com/IanMitchellOR-UAM/Shared-Object-con-Linux/blob/main/hola_print_library.c).
+- [hola_print_library.h](https://github.com/IanMitchellOR-UAM/Shared-Object-con-Linux/blob/main/hola_print_library.h).
 
 ### BuildSO.sh
 echo "hola_print_library.o: hola_print_library.c"
